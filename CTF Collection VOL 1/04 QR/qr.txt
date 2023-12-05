@@ -1,0 +1,1 @@
+open the QR scanner tool scan the QR code and return the flag, or go to online qr scanner and find the flag.

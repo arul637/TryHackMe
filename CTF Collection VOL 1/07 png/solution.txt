@@ -1,0 +1,3 @@
+the png format in this spoil.png file is wrong the 1st 4 hex values are wrong,
+
+the correct png format is 89 50 4E 47 0D 0A 1A 0A 

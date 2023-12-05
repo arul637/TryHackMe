@@ -1,0 +1,4 @@
+inurl:"reddit.com" & intext:"THM" & intitle:"tryhack" 
+
+
+this will open reddit.com with THM text and browse each site and find the flag.

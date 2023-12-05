@@ -1,0 +1,3 @@
+question = ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++++++++++++.------------.+++++.>+++++++++++++++++++++++.<<++++++++++++++++++.>>-------------------.---------.++++++++++++++.++++++++++++.<++++++++++++++++++.+++++++++.<+++.+.>----.>++++.
+
+this question is binaryfuck, to decrypt this fuck use https://www.dcode.fr/brainfuck-language this website, and put the question and make the answer

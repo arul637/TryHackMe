@@ -1,0 +1,5 @@
+strings command is used to extract the string content in the file
+
+command:
+	
+	strings <filename>

@@ -1,0 +1,5 @@
+question = MYKAHODTQ{RVG_YVGGK_FAL_WXF}
+
+answer = TRYHACKME{YOU_FOUND_THE_KEY}
+
+in cyberchef use vigenere decode and enter the key find the flag

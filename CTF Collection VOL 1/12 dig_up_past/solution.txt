@@ -1,0 +1,3 @@
+to search the website past data, using https://archive.org
+
+and select the time to find the flag

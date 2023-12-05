@@ -1,0 +1,10 @@
+binwalk is a tool, which is used to see the hidden files in the file, so we can extract the hidden files 
+
+command:
+	
+	binwalk <filename>
+		to see the hidden files present inside the file
+	
+	binwalk -e <filename>
+		to extract the hidden file.
+	

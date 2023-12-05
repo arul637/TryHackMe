@@ -1,0 +1,5 @@
+exiftool is used to extract the metadata from the given file
+
+command: 
+	
+	exiftool <filename>
